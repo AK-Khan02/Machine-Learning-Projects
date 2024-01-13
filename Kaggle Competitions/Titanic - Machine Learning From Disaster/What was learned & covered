@@ -1,0 +1,28 @@
+=========================
+Outlier Detection Methods
+=========================
+- IQR Method
+- SD Method
+- Z Score Method
+- MOdified Z Score Method
+- Isolation Forest
+- DB Scan Method
+
+===========================
+Machine Learning Algorithms
+===========================
+- Logistic Regression
+- SVC
+- KNN
+- Decision Trees
+- Gradient Boosting
+- AdaBoost
+- Random Forest
+
+=====
+Other
+=====
+- Data Wrangling Methods
+- Data Grouping Methods
+- Feature Selection
+- Data Imputation
