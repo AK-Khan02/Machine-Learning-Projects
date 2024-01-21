@@ -31,5 +31,5 @@ The primary goal of this code is to build and train a Convolutional Neural Netwo
 7. **Evaluation**:
    - Finally, the model is evaluated on the test dataset to check its performance. The accuracy metric provides insight into how well the model is able to classify the test images.
 
-### Summary and Keywords
+### Summary ###
 This code is a comprehensive example of applying deep learning, specifically a Convolutional Neural Network, to the task of sign language recognition. Key aspects include data preprocessing, model construction, data augmentation, training, and evaluation. Relevant keywords include CNN, Keras, TensorFlow, Image Classification, Data Augmentation, Sign Language Recognition, and Multi-class Classification. This application showcases the power of machine learning in making technology accessible and beneficial for diverse user groups, especially in the context of assistive communication technologies.
