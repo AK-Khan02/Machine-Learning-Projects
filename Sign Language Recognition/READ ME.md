@@ -1,5 +1,3 @@
-Absolutely, let's break down the code and its purpose:
-
 ### Goal of the Code
 The primary goal of this code is to build and train a Convolutional Neural Network (CNN) model for the classification of hand signs representing different letters of the alphabet. This kind of application is particularly valuable in the context of translating sign language, thereby assisting in bridging communication gaps for the deaf and hard-of-hearing community. 
 
