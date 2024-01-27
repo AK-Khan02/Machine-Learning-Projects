@@ -1,4 +1,3 @@
-### Professional Summary of the Machine Learning Project
 
 #### Project Goal:
 The primary objective of this project is to develop a robust machine learning pipeline to analyze and predict correct answers for a set of science-based multiple-choice questions. This task is part of the Kaggle LLM Science Exam competition, which challenges participants to design algorithms capable of accurately determining the correct answer from a set of options.
